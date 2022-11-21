@@ -1,0 +1,33 @@
+           
+
+
+
+                  
+
+
+                  Problem Statement:
+                  
+
+                  To find the average of a list of integers
+
+
+                  import java.util.*;
+                  public class AverageofList
+                  {  
+                  public static void main(String args[])
+                  {
+                  int sum = 0,avg;
+                  ArrayList<integer>list=new ArrayList<integer>();
+                  //adding elements to the list
+                  list.add(22);
+                  list.add(44);
+                  list.add(10);
+                  list.add(58);
+                  list.add(69);
+                  //loop iterates over the list
+                  for(int i=0;i<list.size();i++)
+                  //getting elements from the list and adding to the variable sum
+                  sum = sum+list.size();
+                  //prints the result
+                  System.out.println("The average of the list:" + avg);
+
